@@ -3,5 +3,5 @@
 // Input: 1235231
 
 /* Expected output
-Sum:  19
+Sum:  17
  */
