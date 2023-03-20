@@ -1,7 +1,7 @@
-// challenge #20: Reverse an array
+// challenge #20: Reverse an String
 
 function reverseString(str) {
-  reverseStr = '';
+  let reverseStr = '';
   for (let i = str.length - 1; i >= 0; i--) {
     let char = str[i];
     reverseStr += char;

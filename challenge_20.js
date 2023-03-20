@@ -1,7 +1,7 @@
 // challenge #20: Reverse an array
 
 function reverseArray(arr) {
-  reverse = [];
+  let reverse = [];
   for (let i = arr.length - 1; i >= 0; i--) {
     reverse.push(arr[i]);
   }

@@ -20,4 +20,4 @@
 1. Rotate an array to the left 1 position
 1. Rotate an array to the right 1 position
 1. Reverse an array
-1. Reverse an array
+1. Reverse an String
